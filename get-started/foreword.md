@@ -1,5 +1,6 @@
-# You Don't Know JS Yet: Get Started - 2nd Edition
-# Foreword
+# 你不知道的 JS: 开始使用 - 第二版
+
+# 前言
 
 The first time I saw a tweet advertising the crowdfunding campaign for the original book series *You Don't Know JS*, I thought to myself that whoever the hell this Kyle Simpson is can get bent. Of course I know JavaScript! At the time I had been working in JavaScript for many years with some of tech's biggest names, so I felt justified in looking down my nose at this sweeping claim.
 
@@ -18,6 +19,6 @@ So, do your future self a favor and dig into this book and unlock the knowledge 
 Because, as I found out myself, you probably don't know JavaScript (yet).
 
 Brian Holt<br>
-Senior Program Manager<br>
-Visual Studio Code and Node.js on Azure<br>
-Microsoft
+高级项目经理<br>
+Azure 上的 Visual Studio Code 和 Node.js<br>
+微软
