@@ -1,63 +1,63 @@
-# You Don't Know JS Yet (book series) - 2nd Edition
+# 你不懂知道的 JS (系列丛书) - 第二版
 
-This is a series of books diving deep into the core mechanisms of the JavaScript language. This is the **second edition** of the book series:
+这是一系列深入探讨 JavaScript 语言核心机制的书籍。这是该系列丛书的**第二版**:
 
 <a href="https://leanpub.com/ydkjsy-get-started"><img src="get-started/images/cover.png" width="75"></a>&nbsp;&nbsp;
 <a href="https://leanpub.com/ydkjsy-scope-closures"><img src="scope-closures/images/cover.png" width="75"></a>&nbsp;&nbsp;...
 
-**To read more about the motivations and perspective behind this book series, check out the [Preface](preface.md).**
+**要阅读有关本书系列背后动机和观点的更多信息，请查阅[序言](preface.md).**
 
-If you're looking for the previous **first edition** books, [they can be found here](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/README.md).
+如果你正在寻找以前的**第一版**书籍, [可以在这里找到](https://github.com/learning-js-by-reading-source-codes/You-Dont-Know-JS/blob/1st-ed/README.md)。
 
-## Premier Sponsor
+## 首要赞助商
 
-This edition of the **YDKJS** book series is exclusively sponsored by [Frontend Masters](https://frontendmasters.com).
+此版本的 **YDKJS** 图书系列由 [Frontend Masters](https://frontendmasters.com) 独家赞助。
 
-Frontend Masters is the gold standard for top-of-the-line expert training material in frontend-oriented software development. With over 150 courses on all things frontend, this should be your first and only stop for quality video training on HTML, CSS, JS, and related technologies.
-
-----
-
-I teach [all my workshops](https://frontendmasters.com/kyle-simpson) exclusively through Frontend Masters. If you like this book content, please check out my video training courses.
-
-I want to extend a warm and deep thanks to Marc Grabanski and the entire Frontend Masters team, not only for their excellent work with the video training platform, but for their unwavering support of me and of the "You Don't Know JS" books!
+Frontend Masters 是面向前端软件开发的顶级专家培训材料的黄金标准。拥有超过150种有关所有事物的前端课程，这对于你进行 HTML，CSS，JS和相关技术的高质量视频培训来说，应该是你的第一站，也是唯一的一站。
 
 ----
 
-## Titles
+我只通过 Frontend Masters 教授[我所有的工作坊](https://frontendmasters.com/kyle-simpson)。如果你喜欢这本书的内容，请查看我的视频培训课程。
 
-I recommend reading the **second edition** books in this order:
+我要对 Marc Grabanski 和整个 Frontend Master s团队表示衷心的感谢，这不仅是因为他们在视频培训平台上的出色工作，而且是他们对我和 "You Don't Know JS" 书籍的坚定支持!
 
-* [Get Started](get-started/README.md) | [Buy on Leanpub](https://leanpub.com/ydkjsy-get-started) | [Buy on Amazon](https://www.amazon.com/dp/B084BNMN7T)
-* [Scope & Closures](scope-closures/README.md) | [Buy on Leanpub](https://leanpub.com/ydkjsy-scope-closures) | [Buy on Amazon](https://www.amazon.com/dp/B08634PZ3N)
-* Objects & Classes (not yet started)
-* Types & Grammar (not yet started)
-* Sync & Async (not yet started)
-* ES.Next & Beyond (not yet started)
+----
 
-If you're looking for the previous **first edition** books, [they can be found here](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/README.md).
+## 标题
 
-## Publishing
+我建议按以下顺序阅读**第二版**书籍:
 
-As always, you'll be able to read these books online here entirely for free.
+* [开始使用](get-started/README.md) | [在 Leanpub 上购买](https://leanpub.com/ydkjsy-get-started) | [在 Amazon 上购买](https://www.amazon.com/dp/B084BNMN7T)
+* [作用域 & 闭包](scope-closures/README.md) | [在 Leanpub 上购买](https://leanpub.com/ydkjsy-scope-closures) | [在 Amazon 上购买](https://www.amazon.com/dp/B08634PZ3N)
+* Objects & Classes (还没开始)
+* Types & Grammar (还没开始)
+* Sync & Async (还没开始)
+* ES.Next & Beyond (还没开始)
 
-This edition of the books is being self-published through [GetiPub](https://geti.pub) publishing. The published books will be made available for sale through normal book retail sources.
+如果你正在寻找以前的**第一版**书籍, [可以在这里找到](https://github.com/learning-js-by-reading-source-codes/You-Dont-Know-JS/blob/1st-ed/README.md)。
 
-If you'd like to contribute financially towards the effort (or any of my other OSS efforts) aside from purchasing the published books, please consider these options:
+## 出版
+
+一如既往，在这里你可以完全免费在线阅读这些书。
+
+本书的该版本正在通过 [GetiPub](https://geti.pub) 出版进行自我出版。 已出版的书籍将通过正常的书籍零售渠道出售。
+
+如果除了购买已出版的书籍之外，你还想为这项工作(或我的其他 OSS 工作)做出财务上的贡献，请考虑以下选择: 
 
 * [Github Sponsorship](https://github.com/users/getify/sponsorship)
 * [Patreon](https://www.patreon.com/getify)
 * [Paypal](https://www.paypal.me/getify)
 
-## Contributions
+## 贡献
 
-Please feel free to contribute to the quality of this content by submitting PRs for improvements to code snippets, explanations, etc. While typo fixes are welcomed, they will likely be caught through normal editing/publishing processes, **so please don't worry about them right now.**
+请随时提交PR，以改进代码段，说明等，从而为内容的质量做出贡献。虽然我们欢迎修复拼写错误，但很可能会通过正常的编辑/发布过程来捕获它们，**所以请不要担心他们。**
 
-Any contributions you make to this effort **are of course greatly appreciated**.
+你为这项工作所做的任何贡献**当然都值得赞赏**。
 
-But **PLEASE** read the [Contributions Guidelines](CONTRIBUTING.md) carefully before submitting a PR.
+但是在提交一个 PR 之前**请**仔细阅读[贡献准则](CONTRIBUTING.md)。
 
-## License & Copyright
+## 许可 & 版权
 
-The materials herein are all &copy; 2019-2020 Kyle Simpson.
+本文中的材料均属于 &copy; 2019-2020 Kyle Simpson。
 
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivs 4.0 Unported License</a>.
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />这项工作是根据一个 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">知识共享署名-非商业性-无衍生品 4.0 未移植许可证</a>许可的。
