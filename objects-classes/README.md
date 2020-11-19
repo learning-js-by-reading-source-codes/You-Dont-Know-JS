@@ -1,4 +1,4 @@
-# You Don't Know JS Yet: Objects & Classes - 2nd Edition
+# 你不知道的 JS: 对象 & 类 - 第二版
 
 | NOTE: |
 | :--- |
