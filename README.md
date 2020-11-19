@@ -1,13 +1,13 @@
 # 你不知道的 JS (系列丛书) - 第二版
 
-这是一系列深入探讨 JavaScript 语言核心机制的书籍。这是该系列丛书的**第二版**:
+这是一系列深入探讨 JavaScript 语言核心机制的书籍。这是该系列丛书的 **第二版**:
 
 <a href="https://leanpub.com/ydkjsy-get-started"><img src="get-started/images/cover.png" width="75"></a>&nbsp;&nbsp;
 <a href="https://leanpub.com/ydkjsy-scope-closures"><img src="scope-closures/images/cover.png" width="75"></a>&nbsp;&nbsp;...
 
 **要阅读有关本书系列背后动机和观点的更多信息，请查阅[序言](preface.md).**
 
-如果你正在寻找以前的**第一版**书籍, [可以在这里找到](https://github.com/learning-js-by-reading-source-codes/You-Dont-Know-JS/blob/1st-ed/README.md)。
+如果你正在寻找以前的 **第一版** 书籍, [可以在这里找到](https://github.com/learning-js-by-reading-source-codes/You-Dont-Know-JS/blob/1st-ed/README.md)。
 
 ## 首要赞助商
 
@@ -19,22 +19,22 @@ Frontend Masters 是面向前端软件开发的顶级专家培训材料的黄金
 
 我只通过 Frontend Masters 教授[我所有的工作坊](https://frontendmasters.com/kyle-simpson)。如果你喜欢这本书的内容，请查看我的视频培训课程。
 
-我要对 Marc Grabanski 和整个 Frontend Master s团队表示衷心的感谢，这不仅是因为他们在视频培训平台上的出色工作，而且是他们对我和 "You Don't Know JS" 书籍的坚定支持!
+我要对 Marc Grabanski 和整个 Frontend Masters 团队表示衷心的感谢，这不仅是因为他们在视频培训平台上的出色工作，而且是他们对我和 "You Don't Know JS" 书籍的坚定支持!
 
 ----
 
 ## 标题
 
-我建议按以下顺序阅读**第二版**书籍:
+我建议按以下顺序阅读 **第二版** 书籍:
 
 * [开始使用](get-started/README.md) | [在 Leanpub 上购买](https://leanpub.com/ydkjsy-get-started) | [在 Amazon 上购买](https://www.amazon.com/dp/B084BNMN7T)
 * [作用域 & 闭包](scope-closures/README.md) | [在 Leanpub 上购买](https://leanpub.com/ydkjsy-scope-closures) | [在 Amazon 上购买](https://www.amazon.com/dp/B08634PZ3N)
-* Objects & Classes (还没开始)
-* Types & Grammar (还没开始)
-* Sync & Async (还没开始)
+* 对象 & 类 (还没开始)
+* 类型 & 语法 (还没开始)
+* 同步 & 异步 (还没开始)
 * ES.Next & Beyond (还没开始)
 
-如果你正在寻找以前的**第一版**书籍, [可以在这里找到](https://github.com/learning-js-by-reading-source-codes/You-Dont-Know-JS/blob/1st-ed/README.md)。
+如果你正在寻找以前的 **第一版** 书籍, [可以在这里找到](https://github.com/learning-js-by-reading-source-codes/You-Dont-Know-JS/blob/1st-ed/README.md)。
 
 ## 出版
 
@@ -52,7 +52,7 @@ Frontend Masters 是面向前端软件开发的顶级专家培训材料的黄金
 
 请随时提交PR，以改进代码段，说明等，从而为内容的质量做出贡献。虽然我们欢迎修复拼写错误，但很可能会通过正常的编辑/发布过程来捕获它们，**所以请不要担心他们。**
 
-你为这项工作所做的任何贡献**当然都值得赞赏**。
+你为这项工作所做的任何贡献 **当然都值得赞赏**。
 
 但是在提交一个 PR 之前**请**仔细阅读[贡献准则](CONTRIBUTING.md)。
 
