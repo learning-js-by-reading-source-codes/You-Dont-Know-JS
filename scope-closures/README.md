@@ -1,24 +1,24 @@
-# You Don't Know JS Yet: Scope & Closures - 2nd Edition
+# 你不知道的 JS: 作用域 & 闭包 - 第二版
 
 <img src="images/cover.png" width="300">
 
 -----
 
-**[Purchase ebook/PDF from Leanpub](https://leanpub.com/ydkjsy-scope-closures)**
+**[从 Leanpub 购买 ebook/PDF](https://leanpub.com/ydkjsy-scope-closures)**
 
 -----
 
-[Table of Contents](toc.md)
+[目录](toc.md)
 
-* [Foreword](foreword.md) (by [Sarah Drasner](https://sarah.dev/))
-* [Preface](../preface.md)
-* [Chapter 1: What's the Scope?](ch1.md)
-* [Chapter 2: Illustrating Lexical Scope](ch2.md)
-* [Chapter 3: The Scope Chain](ch3.md)
-* [Chapter 4: Around the Global Scope](ch4.md)
-* [Chapter 5: The (Not So) Secret Lifecycle of Variables](ch5.md)
-* [Chapter 6: Limiting Scope Exposure](ch6.md)
-* [Chapter 7: Using Closures](ch7.md)
-* [Chapter 8: The Module Pattern](ch8.md)
-* [Appendix A: Exploring Further](apA.md)
-* [Appendix B: Practice](apB.md)
+* [前言](foreword.md) (由 [Sarah Drasner](https://sarah.dev/))
+* [序言](../preface.md)
+* [章节 1: 作用域是什么?](ch1.md)
+* [章节 2: 说明词法作用域](ch2.md)
+* [章节 3: 作用域链](ch3.md)
+* [章节 4: 全局作用域](ch4.md)
+* [章节 5: 变量的(并非如此)秘密生命周期](ch5.md)
+* [章节 6: 限制作用域暴露](ch6.md)
+* [章节 7: 使用闭包](ch7.md)
+* [章节 8: 模块模式](ch8.md)
+* [附录 A: 进一步探索](apA.md)
+* [附录 B: 实践](apB.md)
