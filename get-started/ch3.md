@@ -1,5 +1,6 @@
-# You Don't Know JS Yet: Get Started - 2nd Edition
-# Chapter 3: Digging to the Roots of JS
+# 你不知道的 JS: 开始使用 - 第二版
+
+# 章节 3: 挖掘 JS 的根源
 
 If you've read Chapters 1 and 2, and taken the time to digest and percolate, you're hopefully starting to *get* JS a little more. If you skipped/skimmed them (especially Chapter 2), I recommend going back to spend some more time with that material.
 
