@@ -1,20 +1,20 @@
-# You Don't Know JS Yet: Get Started - 2nd Edition
+# 你不知道的 JS: 开始使用 - 第二版
 
 <img src="images/cover.png" width="300">
 
 -----
 
-**[Purchase ebook/PDF from Leanpub](https://leanpub.com/ydkjsy-get-started)**
+**[从 Leanpub 购买 ebook/PDF](https://leanpub.com/ydkjsy-get-started)**
 
 -----
 
-[Table of Contents](toc.md)
+[目录](toc.md)
 
-* [Foreword](foreword.md) (by [Brian Holt](https://twitter.com/holtbt))
-* [Preface](../preface.md)
-* [Chapter 1: What Is JavaScript?](ch1.md)
-* [Chapter 2: Surveying JS](ch2.md)
-* [Chapter 3: Digging to the Roots of JS](ch3.md)
-* [Chapter 4: The Bigger Picture](ch4.md)
-* [Appendix A: Exploring Further](apA.md)
-* [Appendix B: Practice, Practice, Practice!](apB.md)
+* [前言](foreword.md) (由 [Brian Holt](https://twitter.com/holtbt))
+* [序言](../preface.md)
+* [章节 1: JavaScript 是什么?](ch1.md)
+* [章节 2: 测绘 JS](ch2.md)
+* [章节r 3: 挖掘 JS 的根源](ch3.md)
+* [章节 4: 更大的蓝图](ch4.md)
+* [附录 A: 进一步探索](apA.md)
+* [附录 B: 练习，练习，练习!](apB.md)
