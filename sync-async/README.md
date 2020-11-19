@@ -1,4 +1,4 @@
-# You Don't Know JS Yet: Async & Performance - 2nd Edition
+# 你不知道的 JS: 同步 & 异步 - 第二版
 
 | NOTE: |
 | :--- |
