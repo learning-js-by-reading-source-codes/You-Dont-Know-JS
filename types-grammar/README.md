@@ -1,4 +1,4 @@
-# You Don't Know JS Yet: Types & Grammar - 2nd Edition
+# 你不知道的 JS: 类型 & 语法 - 第二版
 
 | NOTE: |
 | :--- |
