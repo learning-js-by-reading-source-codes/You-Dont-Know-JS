@@ -1,5 +1,6 @@
-# You Don't Know JS Yet: Get Started - 2nd Edition
-# Chapter 1: What *Is* JavaScript?
+# 你不知道的 JS: 开始使用 - 第二版
+
+# 章节 1: JavaScript *是*什么?
 
 You don't know JS, yet. Neither do I, not fully anyway. None of us do. But we can all start getting to know JS better.
 
@@ -7,7 +8,7 @@ In this first chapter of the first book of the *You Don't Know JS Yet* (YDKJSY) 
 
 This is valuable insight into the identity and process of how JS is organized and maintained; all JS developers should understand it. If you want to get to know JS, this is how to *get started* taking the first steps in that journey.
 
-## About This Book
+## 关于这本书
 
 I emphasize the word journey because *knowing JS* is not a destination, it's a direction. No matter how much time you spend with the language, you will always be able to find something else to learn and understand a little better. So don't look at this book as something to rush through for a quick achievement. Instead, patience and persistence are best as you take these first few steps.
 
@@ -19,7 +20,7 @@ Keep in mind that even though this book is titled "Get Started," it's **not inte
 
 Even if you've already written a lot of JS before, this book should not be skimmed over or skipped; take your time to fully process the material here. **A good start always depends on a solid first step.**
 
-## What's With That Name?
+## 这个名字是什么
 
 The name JavaScript is probably the most mistaken and misunderstood programming language name.
 
@@ -51,7 +52,7 @@ Whether you call it JavaScript, JS, ECMAScript, or ES2019, it's most definitely 
 
 > "Java is to JavaScript as ham is to hamster." --Jeremy Keith, 2009
 
-## Language Specification
+## 语言规范
 
 I mentioned TC39, the technical steering committee that manages JS. Their primary task is managing the official specification for the language. They meet regularly to vote on any agreed changes, which they then submit to ECMA, the standards organization.
 
@@ -83,7 +84,7 @@ All major browsers and device makers have committed to keeping their JS implemen
 
 That means you can learn **one JS**, and rely on that same JS everywhere.
 
-### The Web Rules Everything About (JS)
+### Web 统治着一切关于 (JS)
 
 While the array of environments that run JS is constantly expanding (from browsers, to servers (Node.js), to robots, to lightbulbs, to...), the one environment that rules JS is the web. In other words, how JS is implemented for web browsers is, in all practicality, the only reality that matters.
 
@@ -103,7 +104,7 @@ Section B.3 includes some conflicts where code may run in both web and non-web J
 
 Appendix B *gotchas* aren't encountered very often, but it's still a good idea to avoid these constructs to be future safe. Wherever possible, adhere to the JS specification and don't rely on behavior that's only applicable in certain JS engine environments.
 
-### Not All (Web) JS...
+### 并非全部 (Web) JS...
 
 Is this code a JS program?
 
@@ -125,7 +126,7 @@ Most of the cross-browser differences people complain about with "JS is so incon
 
 So an `alert(..)` call *is* JS, but `alert` itself is really just a guest, not part of the official JS specification.
 
-### It's Not Always JS
+### 并非总是 JS
 
 Using the console/REPL (Read-Evaluate-Print-Loop) in your browser's Developer Tools (or Node) feels like a pretty straightforward JS environment at first glance. But it's not, really.
 
@@ -153,7 +154,7 @@ The developer console is not trying to pretend to be a JS compiler that handles 
 
 Don't trust what behavior you see in a developer console as representing *exact* to-the-letter JS semantics; for that, read the specification. Instead, think of the console as a "JS-friendly" environment. That's useful in its own right.
 
-## Many Faces
+## 多张面孔
 
 The term "paradigm" in programming language context refers to a broad (almost universal) mindset and approach to structuring code. Within a paradigm, there are myriad variations of style and form that distinguish programs, including countless different libraries and frameworks that leave their unique signature on any given code.
 
@@ -175,7 +176,7 @@ But many languages also support code patterns that can come from, and even mix a
 
 JavaScript is most definitely a multi-paradigm language. You can write procedural, class-oriented, or FP-style code, and you can make those decisions on a line-by-line basis instead of being forced into an all-or-nothing choice.
 
-## Backwards & Forwards
+## 向后 & 向前
 
 One of the most foundational principles that guides JavaScript is preservation of *backwards compatibility*. Many are confused by the implications of this term, and often confuse it with a related but different term: *forwards compatibility*.
 
@@ -203,7 +204,7 @@ But chaos and non-determinism would ensue if a programming language engine selec
 
 Though JS isn't, and can't be, forwards-compatible, it's critical to recognize JS's backwards compatibility, including the enduring benefits to the web and the constraints and difficulties it places on JS as a result.
 
-### Jumping the Gaps
+### 跨越差距
 
 Since JS is not forwards-compatible, it means that there is always the potential for a gap between code that you can write that's valid JS, and the oldest engine that your site or application needs to support. If you run a program that uses an ES2019 feature in an engine from 2016, you're very likely to see the program break and crash.
 
@@ -252,7 +253,7 @@ You may wonder: why go to the trouble of using a tool to convert from a newer sy
 
 Developers should focus on writing the clean, new syntax forms, and let the tools take care of producing a forwards-compatible version of that code that is suitable to deploy and run on the oldest-supported JS engine environments.
 
-### Filling the Gaps
+### 填补差距
 
 If the forwards-compatibility issue is not related to new syntax, but rather to a missing API method that was only recently added, the most common solution is to provide a definition for that missing API method that stands in and acts as if the older environment had already had it natively defined. This pattern is called a polyfill (aka "shim").
 
@@ -309,7 +310,7 @@ Always write code using the most appropriate features to communicate its ideas a
 
 Transpilation and polyfilling are two highly effective techniques for addressing that gap between code that uses the latest stable features in the language and the old environments a site or application needs to still support. Since JS isn't going to stop improving, the gap will never go away. Both techniques should be embraced as a standard part of every JS project's production chain going forward.
 
-## What's in an Interpretation?
+## 解释是什么?
 
 A long-debated question for code written in JS: is it an interpreted script or a compiled program? The majority opinion seems to be that JS is an interpreted (scripting) language. But the truth is more complicated than that.
 
@@ -381,7 +382,7 @@ I think it's clear that in spirit, if not in practice, **JS is a compiled langua
 
 And again, the reason that matters is, since JS is compiled, we are informed of static errors (such as malformed syntax) before our code is executed. That is a substantively different interaction model than we get with traditional "scripting" programs, and arguably more helpful!
 
-### Web Assembly (WASM)
+### Web 汇编 (WASM)
 
 One dominating concern that has driven a significant amount of JS's evolution is performance, both how quickly JS can be parsed/compiled and how quickly that compiled code can be executed.
 
@@ -409,7 +410,7 @@ This book isn't about WASM, so I won't spend much more time discussing it, excep
 
 But let me just state simply: WASM will not replace JS. WASM significantly augments what the web (including JS) can accomplish. That's a great thing, entirely orthogonal to whether some people will use it as an escape hatch from having to write JS.
 
-## *Strict*ly Speaking
+## *严格*地来说
 
 Back in 2009 with the release of ES5, JS added *strict mode* as an opt-in mechanism for encouraging better JS programs.
 
@@ -445,28 +446,4 @@ function someOperations() {
 }
 ```
 
-Interestingly, if a file has strict mode turned on, the function-level strict mode pragmas are disallowed. So you have to pick one or the other.
-
-The **only** valid reason to use a per-function approach to strict mode is when you are converting an existing non-strict mode program file and need to make the changes little by little over time. Otherwise, it's vastly better to simply turn strict mode on for the entire file/program.
-
-Many have wondered if there would ever be a time when JS made strict mode the default? The answer is, almost certainly not. As we discussed earlier around backwards compatibility, if a JS engine update started assuming code was strict mode even if it's not marked as such, it's possible that this code would break as a result of strict mode's controls.
-
-However, there are a few factors that reduce the future impact of this non-default "obscurity" of strict mode.
-
-For one, virtually all transpiled code ends up in strict mode even if the original source code isn't written as such. Most JS code in production has been transpiled, so that means most JS is already adhering to strict mode. It's possible to undo that assumption, but you really have to go out of your way to do so, so it's highly unlikely.
-
-Moreover, a wide shift is happening toward more/most new JS code being written using the ES6 module format. ES6 modules assume strict mode, so all code in such files is automatically defaulted to strict mode.
-
-Taken together, strict mode is largely the de facto default even though technically it's not actually the default.
-
-## Defined
-
-JS is an implementation of the ECMAScript standard (version ES2019 as of this writing), which is guided by the TC39 committee and hosted by ECMA. It runs in browsers and other JS environments such as Node.js.
-
-JS is a multi-paradigm language, meaning the syntax and capabilities allow a developer to mix and match (and bend and reshape!) concepts from various major paradigms, such as procedural, object-oriented (OO/classes), and functional (FP).
-
-JS is a compiled language, meaning the tools (including the JS engine) process and verify a program (reporting any errors!) before it executes.
-
-With our language now *defined*, let's start getting to know its ins and outs.
-
-[^specApB]: ECMAScript 2019 Language Specification, Appendix B: Additional ECMAScript Features for Web Browsers, https://www.ecma-international.org/ecma-262/10.0/#sec-additional-ecmascript-features-for-web-browsers (latest as of time of this writing in January 2020)
+Interestingly, if a file has strict mode turned on, the function-level strict mode pragmas are disallowed. So you have to p
