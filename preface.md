@@ -1,5 +1,6 @@
-# You Don't Know JS Yet - 2nd Edition
-# Preface
+# 你不知道的 JS: 开始使用 - 第二版
+
+# 序言
 
 Welcome to the 2nd edition of the widely acclaimed *You Don't Know JS* (**YDKJS**) book series: *You Don't Know JS **Yet*** (**YDKJSY**).
 
@@ -9,7 +10,7 @@ If this is your first time reading these books, I'm glad you're here. Prepare fo
 
 If you are new to programming or JS, be aware that these books are not intended as a gentle "intro to JavaScript." This material is, at times, complex and challenging, and goes much deeper than is typical for a first-time learner. You're welcome here no matter what your background is, but these books are written assuming you're already comfortable with JS and have at least 6–9 months experience with it.
 
-## The Parts
+## 组成部分
 
 These books approach JavaScript intentionally opposite of how *The Good Parts* treats the language. No, that doesn't mean we're looking at *the bad parts*, but rather, exploring **all the parts**.
 
@@ -27,7 +28,7 @@ I find it absurd to try to be a truly effective JavaScript developer while only 
 
 My unreserved claim is that you should go about learning all parts of JavaScript, and where appropriate, use them! And if I may be so bold as to suggest: it's time to discard any JS books that tell you otherwise.
 
-## The Title?
+## 标题？
 
 So what's the title of the series all about?
 
@@ -47,7 +48,7 @@ I encourage you to adopt a mindset around JavaScript, and indeed all of software
 
 You can always know JS better than you currently do. That's what I hope these YDKJSY books represent.
 
-## The Mission
+## 使命
 
 The case doesn't really need to be made for why developers should take JS seriously—I think it's already more than proven worthy of first-class status among the world's programming languages.
 
@@ -63,7 +64,7 @@ All developers regularly struggle with some piece of code not working correctly,
 
 My mission with YDKJSY is to empower every single JS developer to fully own the code they write, to understand it and to write with intention and clarity.
 
-## The Path
+## 路径
 
 Some of you have started reading this book with the goal of completing all six books, back to back.
 
